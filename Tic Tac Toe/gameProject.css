@@ -1,0 +1,10 @@
+td{
+  width: 150px;
+  height: 150px;
+  border: 2px solid black;
+  text-align: center;
+  font-size: 100px;
+}
+#qwerty{
+  background-color: #66ff33;
+}
